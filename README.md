@@ -10,4 +10,9 @@ Piment était un projet de developpement d'application que les BTS SIO SLAM on e
 - CI/CD
 - RBAC
 - Singloton
+- Réaliser un diagramme UML
+- Ajout de Doxgyène
+- PHPUnit
 - Contruit en PHP Natif sur une base de donnée mariaDB et pour le frontend en React
+
+
