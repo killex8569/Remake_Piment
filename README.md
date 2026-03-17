@@ -31,3 +31,5 @@ Ma valeur ajouter :
 - Chaque pompier à un planning et un grade (8h 17h et grade : chef, sous chef, pompier, colonnel, assistance téléphonique, spécialiste incendie etc...)
 - Chaque pompier peut participer à une ou plusieurs formations dans l'année
 - Pour le RBAC: Il y aura trois niveau de privilège : Utilisateur (les pompier), assistance/direction (c'est eux qui définisse les grade, les emplois du temps et les formations sur l'application ou encore si ils sont en missions aujourd'hui ou pas) et enfin l'admin (qui à les droits suprême)
+
+
